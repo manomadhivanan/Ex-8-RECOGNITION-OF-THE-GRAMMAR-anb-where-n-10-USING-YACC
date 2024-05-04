@@ -1,8 +1,7 @@
-# Ex-8-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
-RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
+# Ex-8-RECOGNITION OF THE GRAMMAR anb where n-10 USING YACC
 # NAME:MANO M
 # REGISTER NUMBER:212221040100
-# Date:03.05.2024
+# Date:27.03.2024
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
@@ -70,8 +69,7 @@ int yyerror(char *msg)
 ```
 
 # OUTPUT
-<img width="764" alt="image" src="https://github.com/manomadhivanan/Ex-8-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC/assets/115543366/8aa906de-9957-4c1a-9727-6ee5250e4d47">
-
+<img width="700" alt="image" src="https://github.com/manomadhivanan/Ex-8-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC/assets/115543366/2388e1ff-efba-47af-a506-f76317b2b0e2">
 
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
